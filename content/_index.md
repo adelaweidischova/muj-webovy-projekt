@@ -10,6 +10,8 @@ Na webové stránce zmiňuji informace o jeho životě a kariéře. Za zmínku t
 
 Na českém webu je o O'Reillym málo zdrojů, více jich je v angličtině. Většinou je na českém webu spíše nabízena jen jeho kniha. Hodně informací (možná nejvíce) lze najít na oficiálních stránkách O'Reilly Media. 
 
+<iframe src="https://player.vimeo.com/video/76979871?embedparameter=value" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 ##### Zdroje:
 
 https://www.oreilly.com/tim/bio.html
