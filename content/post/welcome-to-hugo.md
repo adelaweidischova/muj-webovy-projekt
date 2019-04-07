@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Hugo!j"
+title:  "Welcome to Hugo!"
 date:   2018-03-13
 tags: 
     - hello world
